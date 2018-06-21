@@ -14,7 +14,7 @@ A working Maven setup is assumed or an IDE with an appropriate plugins.
 
 The build is executed at the root.
 
-    $ <java-util> mvn clean install
+    $ <web-util> mvn clean install
 
 The build artifact is found from the module target directory.
 
