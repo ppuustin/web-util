@@ -1,0 +1,21 @@
+footer{
+    display: block;
+    background-color: #00ff00;
+    color: white;
+}
+
+#blaa {
+    background-color: rgp(255,255,0);
+}
+
+nav a {
+    display: block;
+}
+
+nav a:hover {
+    background-color: silver;
+}
+
+#ta {
+    style: "font-family:new century schoolbook";
+}
